@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1482612846 source:c:\codeblocks\api\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	<pthread.h>
+	<stdbool.h>
+	<string.h>
+	<windows.h>
+	<tchar.h>
+	<windows.h>
+
+1482857415 source:d:\my_projects\faculty_assignment\1st_year\1st_term\final_project\api\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	<pthread.h>
+	<stdbool.h>
+	<string.h>
+	<windows.h>
+	<windowsx.h>
+	<tchar.h>
+	<windows.h>
+
